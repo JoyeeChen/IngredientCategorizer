@@ -1,1 +1,3 @@
-
+%This PART of a WHOLE program is an ingredient-inserting function.
+%To be written in Python
+%Parameters: text file of ingredients for a recipe
